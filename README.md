@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ridafatimakhan
 - 👀 I’m interested in Web Development  
-- 🌱 I’m currently learning HTML,CSS,Php
+- 🌱 I’m practicing my skills in Javascript
 - 💞️ I’m looking to collaborate on web based projects
 - 📫 How to reach me ridafatima0302@gmail.com
 
