@@ -1,7 +1,7 @@
                                          Hi 👋, I'm Rida   
                                          
                                          
-                                A passionate Software QA Test Engineer
+                                A passionate Software Engineer
                       
 
 - 🔭 I’m currently working at https://bitboxit.com/
