@@ -4,10 +4,9 @@
                                 A passionate Software Engineer
                       
 
-- 🔭 I’m currently working at https://bitboxit.com/
-- 👀 I’m interested in the roles of Software QA Test Engineering.
-- 🌱 I’m practicing my skills in Automation Testing in Javascript
-- 👩‍💻 I’m looking to collaborate on Quality Assurance Testing projects
+- 🔭 I’m currently working as a Frontend Developer.
+- 👀 I’m interested in the roles of Software Engineering.
+- 🌱 I’m practicing my skills in Javascript
 - 📫 How to reach me ridafatima0302@gmail.com
 
 <!---
