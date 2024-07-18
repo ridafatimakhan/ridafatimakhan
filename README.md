@@ -4,9 +4,9 @@
                                 A passionate Software Engineer
                       
 
-- 🔭 I’m currently working as a Frontend Developer.
+- 🔭 I’m currently persuing masters degree in Software Engineering.
+- 🌱 I’m working as an internee for a web development project.
 - 👀 I’m interested in the roles of Software Engineering.
-- 🌱 I’m practicing my skills in Javascript
 - 📫 How to reach me ridafatima0302@gmail.com
 
 <!---
