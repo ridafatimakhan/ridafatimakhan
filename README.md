@@ -1,7 +1,7 @@
-                                         Hi 👋, I'm Rida   
+                                               Hi 👋, I'm Rida   
                                          
                                          
-                                A passionate Software Engineer
+                                          A passionate Software Engineer
                       
 
 - 🔭 I’m currently persuing masters degree in Software Engineering.
